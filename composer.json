@@ -1,0 +1,20 @@
+{
+    "name": "neko/auth",
+    "description": "neko framework authentication engine",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Reids",
+            "email": "reids@neoblackant.org"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Neko\\Auth\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.0"
+    }
+}
