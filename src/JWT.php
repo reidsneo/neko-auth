@@ -3,7 +3,7 @@
 declare(strict_types=1);
 
 namespace Neko\Auth;
-
+//adhocore/php-jwt
 class JWT
 {
     use ValidatesJWT;
